@@ -7,7 +7,7 @@ This program is based on project from hyperskill.org: https://hyperskill.org/pro
 I learned about the regex syntax, practiced working with parsing and slicing, and get more familiar with boolean algebra and recursion.  
 
 # Example  
-Input:      '\.$|end.'              Output: True  
+Input:        '\.$|end.'                Output: True  
 Input:     '3\+3|3+3=6'             Output: True  
 Input:       '\?|Is this working?'  Output: True  
 Input:       '\\|\'                 Output: True  
