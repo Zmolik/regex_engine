@@ -4,7 +4,7 @@ An extendable regex engine that can handle basic regex syntax, including literal
 **Learning outcomes**  
 I learned about the regex syntax, practiced working with parsing and slicing, and get more familiar with boolean algebra and recursion.  
 
-# Examples  
+**Examples**    
 Input:  '\.$|end.'    
 Output:  True  
 
